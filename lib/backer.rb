@@ -1,8 +1,8 @@
 class Backer 
   attr_reader :name
 
-def initiazlize(name)
+def initialize
   @name = name
-  
-  
+  @backed_peojects = ""
+  @@all<<all 
 end 
